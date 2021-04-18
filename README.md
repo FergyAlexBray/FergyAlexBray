@@ -3,13 +3,13 @@
 <h3> :man: &nbsp;About Me </h3>
 
 - 🔭 I’m currently working on: A better version of Groover :musical_note:
-- :heart: My favorite language: NodeJS
+- 😍 My favorite language: NodeJS
 - 🌱 I’m currently learning: Hadoop
 - 👯 I’m always looking to collaborate with: People from any field
 - 💬 Ask me about: anything, I am happy to help
-- 🌍 I support: The Ocean Cleanup, African Wildlife Foundation, Human Rights Foundation
-- 💜 Interests: travel, sport, video games, internet culture, Shrek
-- ⚡ Fun fact: At 18, I travelled all of Vietnam on a motorbike 🖖
+- 🥊 I support: The Ocean Cleanup, African Wildlife Foundation, Human Rights Foundation
+- ❤️ Interests: travel, sport, video games, internet culture, Shrek
+- ⚡ Fun fact: At 18, I travelled all of Vietnam on a motorbike 🏍️
 
 <br/>
 
