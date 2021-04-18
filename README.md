@@ -1,6 +1,3 @@
-![Welcome Banner](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
-
-
 <img align="left" height="270px" alt="hello_world" src="./IMG_20201007_113534_863.jpg" />
 
 <h3> :man: &nbsp;About Me </h3>
