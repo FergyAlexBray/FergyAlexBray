@@ -56,7 +56,7 @@
 </p>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FergyAlexBray&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fergyalexbray&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/FergyAlexBray"/>
